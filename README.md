@@ -31,7 +31,9 @@ integers configuration to another, the most efficient sorting algorithm can diff
 
 ## instructions
 ### V.1 Game rules
-• The game is composed of 2 stacks named a and b. • To start with:
+• The game is composed of 2 stacks named a and b.
+
+• To start with:
   ◦ a contains a random number of either positive or negative numbers without any duplicates.
   ◦ b is empty
 
